@@ -1,1 +1,14 @@
+
 For history of this script pre-github, please see header of code.  Also, please note that this script is based on the work of other developers (see the comments in the code for attribution).  See code for detail.  I am releasing my code modifications under GPL3.
+
+
+####################################################
+#   WSUS-auto-decline.ps1      
+####################################################
+#
+# Purpose: Decline un-needed WSUS Updates to save disk space on server and reduce clutter in WSUS Server manager
+# Original Author: "nadnerB"
+# https://community.spiceworks.com/scripts/show/2795-decline-wsus-updates
+# 
+# Run powershell script from task scheduler:  https://community.spiceworks.com/how_to/17736-run-powershell-scripts-from-task-scheduler
+#
